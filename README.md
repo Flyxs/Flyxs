@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Flyxs&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Flyxs&locale=pt-br&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Flyxs&locale=pt-br&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Flyxs&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
@@ -76,7 +76,7 @@
     <img src="https://i.scdn.co/image/ab67616d00001e02a0209db6a0a102cae469d4f9" height="200" lenght="200" alt="" align="left" />
   </a>
   <a href="https://open.spotify.com/intl-pt/track/10Nmj3JCNoMeBQ87uw5j8k" target="blank">
-    <img src="https://i.scdn.co/image/ab67616d00001e0209fd83d32aee93dceba78517" height="200" lenght="200" alt="" align="center" />
+    <img src="https://i.scdn.co/image/ab67616d00001e0209fd83d32aee93dceba78517" height="200" width="200" alt="" align="center" />
   </a>
   <a href="https://open.spotify.com/intl-pt/track/10Nmj3JCNoMeBQ87uw5j8k" target="blank">
     <img src="https://i.scdn.co/image/ab67616d00001e02b1f8da74f225fa1225cdface" height="200" lenght="200" alt="" align="right" />
