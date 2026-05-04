@@ -70,16 +70,16 @@
 
 <h3 align="center">🎧 Recomendação de Musica</h3>
 
-
 <div align="center">
-  <a href="https://open.spotify.com/intl-pt/track/0Sc8AsDTBeZFWg8K9tMARE?si=83749d21207e4d15" target="blank">
-    <img src="https://i.scdn.co/image/ab67616d00001e02a0209db6a0a102cae469d4f9" height="200" width="200" alt="" align="center" />
+  <a href="https://open.spotify.com/intl-pt/track/0Sc8AsDTBeZFWg8K9tMARE?si=83749d21207e4d15" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d00001e02a0209db6a0a102cae469d4f9" height="200" width="200" alt="capa1" style="border-radius: 10px; margin: 5px;" />
   </a>
-  <a href="https://open.spotify.com/intl-pt/track/10Nmj3JCNoMeBQ87uw5j8k" target="blank">
-    <img src="https://i.scdn.co/image/ab67616d00001e0209fd83d32aee93dceba78517" height="200" width="200" alt="" align="center" />
+  <a href="https://open.spotify.com/intl-pt/track/10Nmj3JCNoMeBQ87uw5j8k" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d00001e0209fd83d32aee93dceba78517" height="200" width="200" alt="capa2" style="border-radius: 10px; margin: 5px;" />
   </a>
-  <a href="https://open.spotify.com/intl-pt/track/10Nmj3JCNoMeBQ87uw5j8k" target="blank">
-    <img src="https://i.scdn.co/image/ab67616d00001e02b1f8da74f225fa1225cdface" height="200" width="200" alt="" align="center" />
+  <a href="https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d00001e02b1f8da74f225fa1225cdface" height="200" width="200" alt="capa3" style="border-radius: 10px; margin: 5px;" />
   </a>
+</div>
 
 ###
