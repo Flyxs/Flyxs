@@ -82,4 +82,12 @@
   </a>
 </div>
 
+<h3 align="center">🎵 Ouvindo agora</h3>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/8syew6eedl0yd8t42m23zaspv">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=8syew6eedl0yd8t42m23zaspv&cover_image=true&theme=dark&show_offline=true&background_color=121212&interact=true" />
+  </a>
+</p>
+
 ###
