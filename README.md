@@ -73,13 +73,13 @@
 
 <div align="center">
   <a href="https://open.spotify.com/intl-pt/track/0Sc8AsDTBeZFWg8K9tMARE?si=83749d21207e4d15" target="blank">
-    <img src="https://i.scdn.co/image/ab67616d00001e02a0209db6a0a102cae469d4f9" height="200" lenght="200" alt="" align="left" />
+    <img src="https://i.scdn.co/image/ab67616d00001e02a0209db6a0a102cae469d4f9" height="200" width="200" alt="" align="center" />
   </a>
   <a href="https://open.spotify.com/intl-pt/track/10Nmj3JCNoMeBQ87uw5j8k" target="blank">
     <img src="https://i.scdn.co/image/ab67616d00001e0209fd83d32aee93dceba78517" height="200" width="200" alt="" align="center" />
   </a>
   <a href="https://open.spotify.com/intl-pt/track/10Nmj3JCNoMeBQ87uw5j8k" target="blank">
-    <img src="https://i.scdn.co/image/ab67616d00001e02b1f8da74f225fa1225cdface" height="200" lenght="200" alt="" align="right" />
+    <img src="https://i.scdn.co/image/ab67616d00001e02b1f8da74f225fa1225cdface" height="200" width="200" alt="" align="center" />
   </a>
 
 ###
