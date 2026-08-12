@@ -73,13 +73,3 @@
 <div align="center">
   <a href="https://open.spotify.com/intl-pt/track/0Sc8AsDTBeZFWg8K9tMARE" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02a0209db6a0a102cae469d4f9" width="170" height="170" style="border-radius: 10px; margin: 5px;" /></a><a href="https://open.spotify.com/intl-pt/track/10Nmj3JCNoMeBQ87uw5j8k" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0209fd83d32aee93dceba78517" width="170" height="170" style="border-radius: 10px; margin: 5px;" /></a><a href="https://open.spotify.com/intl-pt/track/10Nmj3JCNoMeBQ87uw5j8k" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02b1f8da74f225fa1225cdface" width="170" height="170" style="border-radius: 10px; margin: 5px;" /></a>
 </div>
-
-###
-
-<h3 align="center">🎵 Ouvindo agora</h3>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/8syew6eedl0yd8t42m23zaspv" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=8syew6eedl0yd8t42m23zaspv&cover_image=true&theme=dark&show_offline=true&background_color=121212" alt="Spotify" />
-  </a>
-</div>
